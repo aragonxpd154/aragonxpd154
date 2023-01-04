@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Eu sou Marcos "Obel" (aragonxpd154) e moro no Brasil. Sou fascinado por arquitetura de hardware e arquitetura de microprocessador em nível de abstração, linguagem de descrição geral de hardware e design de circuitos analógicos digitais. Atualmente trabalho em uma emissora. <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Eu sou Marcos "Obel" e moro no Brasil. Sou fascinado por arquitetura de hardware e arquitetura de microprocessador em nível de abstração, linguagem de descrição geral de hardware e design de circuitos analógicos digitais. <br>
+  Atualmente trabalho em uma emissora de televisão como Técnico de Sistemas Audiovisuais e estudo Análise e Desenvolvimento de Sistema.
 </p>
 
 <p align="left">
