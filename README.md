@@ -26,6 +26,8 @@
 
   <a href="https://www.youtube.com/@voraz3d" alt="Instagram">
   <img src="https://img.shields.io/badge/-Youtube-df0101?style=flat-square&labelColor=df0101&logo=youtube&logoColor=white&link=https://www.youtube.com/@voraz3d"/></a>
+  
+  ![Profile View Counter](https://komarev.com/ghpvc/?username=aragonxpd154)
 </p>  
 
 <div align="center">
@@ -34,9 +36,3 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aragonxpd154&layout=compact&langs_count=7&theme=radical"/>
 
 </div>
-
-<div> 
-  <a href="https://www.linkedin.com/in/marcosobel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
- 
-![Profile View Counter](https://komarev.com/ghpvc/?username=aragonxpd154)
