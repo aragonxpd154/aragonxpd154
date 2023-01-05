@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/aragonxpd154/aragonxpd154/blob/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
 <strong>Em Português</strong><br> 
@@ -15,15 +15,15 @@
 </p>
 
 <p align="left">
-  👀 Linguagens que estou aprendendo | Languages I'm learning : <strong>| Python | C/C++| C# | Verilog | VHDL | R |</strong>
+  👀 Linguagens que estou aprendendo | Languages I'm learning |: <strong>| Python | C/C++| C# | Verilog | VHDL | R |</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas | Tools | 툴 |: <strong>| Visual Studio | Code:Blocks | Git | Dev C++ | </strong>
+  💼 Ferramentas | Tools |: <strong>| Visual Studio | Code:Blocks | Git | Dev C++ | </strong>
 </p>
 
 <p align="left">
-  📫 Aqui você consegue entrar em contato comigo | Here you can contact me : ⤵️
+  📫 Aqui você consegue entrar em contato comigo | Here you can contact me |: ⤵️
 </p>
 
 <p align="left">
