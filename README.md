@@ -15,15 +15,17 @@
 </p>
 
 <p align="left">
-  👀 Linguagens que estou aprendendo | Languages I'm learning : <strong>| Python | C/C++| C# | Verilog | VHDL | R |</strong>
+  👀 Linguagens que estou aprendendo | Languages I'm learning: ⤵️
+  <br><strong>| Python | C/C++| C# | Verilog | VHDL | R |</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas | Tools : <strong>| Visual Studio | Code:Blocks | Git | Dev C++ | </strong>
+  💼 Ferramentas | Tools: ⤵️
+  <br><strong>| Visual Studio | Code:Blocks | Git | Dev C++ | </strong>
 </p>
 
 <p align="left">
-  📫 Aqui você consegue entrar em contato comigo | Here you can contact me : ⤵️
+  📫 Aqui você consegue entrar em contato comigo | Here you can contact me: ⤵️
 </p>
 
 <p align="left">
