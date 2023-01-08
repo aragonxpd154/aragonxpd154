@@ -15,16 +15,22 @@
 </p>
 
 <p align="left">
+<<<<<<< HEAD
   👀 Linguagens que estou aprendendo | Languages I'm learning : <strong>| <a href="#" alt="C#">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcosobel" /></a> Python | C/C++| Verilog | VHDL | R |</strong>
+=======
+  👀 Linguagens que estou aprendendo | Languages I'm learning: ⤵️
+  <br><strong>| Python | C/C++| C# | Verilog | VHDL | R |</strong>
+>>>>>>> 49e395b5db757f4e722d5d5feb00d7d268be279a
 </p>
 
 <p align="left">
-  💼 Ferramentas | Tools : <strong>| Visual Studio | Code:Blocks | Git | Dev C++ | </strong>
+  💼 Ferramentas | Tools: ⤵️
+  <br><strong>| Visual Studio | Code:Blocks | Git | Dev C++ | </strong>
 </p>
 
 <p align="left">
-  📫 Aqui você consegue entrar em contato comigo | Here you can contact me : ⤵️
+  📫 Aqui você consegue entrar em contato comigo | Here you can contact me: ⤵️
 </p>
 
 <p align="left">
