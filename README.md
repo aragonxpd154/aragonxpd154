@@ -35,7 +35,9 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas | Tools: ⤵️ <strong><br>
+  💼 Ferramentas | Tools: ⤵️ <strong>
+  <a>
+  <br>
   
   <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
   </a></strong>
