@@ -15,7 +15,8 @@
 </p>
 
 <p align="left">
-  👀 Linguagens que estou aprendendo | Languages I'm learning : <strong>| Python | C/C++| C# | Verilog | VHDL | R |</strong>
+  👀 Linguagens que estou aprendendo | Languages I'm learning : <strong>| <a href="#" alt="C#">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcosobel" /></a> Python | C/C++| Verilog | VHDL | R |</strong>
 </p>
 
 <p align="left">
