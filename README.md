@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  👀 Linguagens que estou aprendendo | Languages I'm learning : <strong>| <a><br>
+  👀 Linguagens que estou aprendendo | Languages I'm learning: ⤵️ <strong>| <a><br>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -31,15 +31,26 @@
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 
   <img src="https://raw.githubusercontent.com/aragonxpd154/aragonxpd154/605244c52628f0e28a0ad00909071483889de43b/SystemVerilog_logo.svg"/>
-  </a>Python | C/C++| C# | Verilog | VHDL | R |</strong>
+  </a></strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas | Tools : <strong>| Visual Studio | Code:Blocks | Git | Dev C++ | </strong>
+  💼 Ferramentas | Tools: ⤵️ <strong><br>
+  
+  <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
+  </a></strong>
+
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  </a></strong>
+
+  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
+  </a></strong>
+  
+  </strong>
 </p>
 
 <p align="left">
-  📫 Aqui você consegue entrar em contato comigo | Here you can contact me : ⤵️
+  📫 Aqui você consegue entrar em contato comigo | Here you can contact me: ⤵️
 </p>
 
 <p align="left">
