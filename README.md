@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  👀 Linguagens que estou aprendendo | Languages I'm learning: ⤵️ <strong>| <a><br>
+  👀 Linguagens que estou aprendendo | Languages I'm learning: ⤵️ <strong> <a><br>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
