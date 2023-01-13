@@ -73,9 +73,8 @@
 </p>
 
 <div align="center">
-  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aragonxpd154&theme=react&line_height=40&hide=css"/> </a>
+  <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark"/> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aragonxpd154&theme=react&line_height=40&hide=css"/> </a>
   
-  <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent"/> </a>
   
 ![Profile View Counter](https://komarev.com/ghpvc/?username=aragonxpd154)
   
