@@ -69,15 +69,11 @@
   <a href="https://www.youtube.com/@voraz3d" alt="Instagram">
   <img src="https://img.shields.io/badge/-Youtube-df0101?style=flat-square&labelColor=df0101&logo=youtube&logoColor=white&link=https://www.youtube.com/@voraz3d"/></a>
   
-  ![Profile View Counter](https://komarev.com/ghpvc/?username=aragonxpd154)
+  
 </p>
 
 <div align="center">
-  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-  <a href="https://github.com/aragonxpd154">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aragonxpd154&theme=dracula&show_icons=true" />
-</a>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aragonxpd154&layout=compact&langs_count=7&theme=radical"/>
-
+  
+![Profile View Counter](https://komarev.com/ghpvc/?username=aragonxpd154)
+  
 </div>
