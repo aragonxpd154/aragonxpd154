@@ -74,7 +74,7 @@
 
 <div align="center">
   <a href="https://github.com/aragonxpd154">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aragonxpd154&theme=dracula&show_icons=true" />
 </a>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aragonxpd154&layout=compact&langs_count=7&theme=radical"/>
 
