@@ -73,6 +73,8 @@
 </p>
 
 <div align="center">
+  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
   <a href="https://github.com/aragonxpd154">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aragonxpd154&theme=dracula&show_icons=true" />
 </a>
