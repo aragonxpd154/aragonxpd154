@@ -73,7 +73,7 @@
 </p>
 
 <div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aragonxpd154&show_icons=true&theme=transparent)
   
 ![Profile View Counter](https://komarev.com/ghpvc/?username=aragonxpd154)
   
