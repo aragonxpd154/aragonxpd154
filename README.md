@@ -70,8 +70,6 @@
 <div align="center">
 
 <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aragonxpd154&theme=react&line_height=40&hide=css"/> </a>
-
-<img aligh="center" src="https://github-readme-stats.vercel.app/api?username=aragonxpd154&show_icons=true"/> </a>
   
 ![Profile View Counter](https://komarev.com/ghpvc/?username=aragonxpd154)
   
