@@ -14,6 +14,7 @@
 
 </p>
 
+<div align="center">
 <p align="left"><strong>
   👀 Linguagens que estou aprendendo | Languages I'm learning: ⤵️ <br></strong>
   <a>
@@ -59,6 +60,9 @@
   
   
 </p>
+</div>
+
+<div align="center">
 
 <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aragonxpd154&theme=react&line_height=40&hide=css"/> </a>
 
