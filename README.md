@@ -26,8 +26,6 @@
   
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
   
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 
   <img src="https://raw.githubusercontent.com/aragonxpd154/aragonxpd154/605244c52628f0e28a0ad00909071483889de43b/SystemVerilog_logo.svg"/>
@@ -38,20 +36,14 @@
   💼 Ferramentas | Tools: ⤵️ <strong>
   <a>
   <br>
-  
-  <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
-  </a></strong>
 
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
   </a></strong>
 
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
   </a></strong>
 
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
-  </a></strong>
-
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   </a></strong>
 
   </strong>
@@ -64,10 +56,10 @@
 <p align="left">
 
   <a href="https://www.linkedin.com/in/marcosobel" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcosobel" /></a>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
   <a href="https://www.youtube.com/@voraz3d" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Youtube-df0101?style=flat-square&labelColor=df0101&logo=youtube&logoColor=white&link=https://www.youtube.com/@voraz3d"/></a>
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   
   
 </p>
