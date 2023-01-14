@@ -29,28 +29,23 @@
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 
   <img src="https://raw.githubusercontent.com/aragonxpd154/aragonxpd154/605244c52628f0e28a0ad00909071483889de43b/SystemVerilog_logo.svg"/>
-  </a></strong>
+  </a>
 </p>
 
 <p align="left">
-  💼 Ferramentas | Tools: ⤵️ <strong>
+  💼 Ferramentas | Tools: ⤵️ <strong><br>
   <a>
-  <br>
-
   <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
-  </a></strong>
+  </a>
 
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
-  </a></strong>
-
+  </a>
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
-  </a></strong>
-
-  </strong>
+  </a>
 </p>
 
 <p align="left">
-  📫 Aqui você consegue entrar em contato comigo | Here you can contact me: ⤵️
+  📫 Aqui você consegue entrar em contato comigo | Here you can contact me: ⤵️ <br>
 </p>
 
 <p align="left">
@@ -65,6 +60,8 @@
 </p>
 
 <div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aragonxpd154&show_icons=true)
+
 <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aragonxpd154&theme=react&line_height=40&hide=css"/> </a>
   
   
