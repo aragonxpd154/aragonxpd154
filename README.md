@@ -14,8 +14,9 @@
 
 </p>
 
-<p align="left">
-  👀 Linguagens que estou aprendendo | Languages I'm learning: ⤵️ <strong> <a><br>
+<p align="left"><strong>
+  👀 Linguagens que estou aprendendo | Languages I'm learning: ⤵️ <br></strong>
+  <a>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -32,8 +33,8 @@
   </a>
 </p>
 
-<p align="left">
-  💼 Ferramentas | Tools: ⤵️ <strong><br>
+<p align="left"><strong>
+  💼 Ferramentas | Tools: ⤵️ </strong><br>
   <a>
   <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
   </a>
@@ -44,8 +45,8 @@
   </a>
 </p>
 
-<p align="left">
-  📫 Aqui você consegue entrar em contato comigo | Here you can contact me: ⤵️ <br>
+<p align="left"><strong>
+  📫 Aqui você consegue entrar em contato comigo | Here you can contact me: ⤵️ </strong><br>
 </p>
 
 <p align="left">
@@ -60,10 +61,9 @@
 </p>
 
 <div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aragonxpd154&show_icons=true)
 
+<img aligh="center" src="https://github-readme-stats.vercel.app/api?username=aragonxpd154&show_icons=true"/> </a>
 <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aragonxpd154&theme=react&line_height=40&hide=css"/> </a>
-  
   
 ![Profile View Counter](https://komarev.com/ghpvc/?username=aragonxpd154)
   
