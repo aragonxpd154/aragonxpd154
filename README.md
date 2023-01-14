@@ -1,6 +1,6 @@
 <img src="https://github.com/aragonxpd154/aragonxpd154/blob/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left">
+<p align="justify">
 <strong>Em Português</strong><br> 
   Eu sou Marcos "Obel" e moro no Brasil. Me interesso por engenharia eletrônica aplicada a programação de microcontroladores, microprocessadores, linguagem de descrição de hardware, circuito eletrônico, arquitetura de hardware em nível de abstração.
   Atualmente trabalho em uma emissora de televisão como Técnico de Sistemas Audiovisuais e estudo Análise e Desenvolvimento de Sistemas.
@@ -33,7 +33,8 @@
   <img src="https://raw.githubusercontent.com/aragonxpd154/aragonxpd154/605244c52628f0e28a0ad00909071483889de43b/SystemVerilog_logo.svg"/>
   </a>
 </p>
-
+</div>
+<div align="center">
 <p align="left"><strong>
   💼 Ferramentas | Tools: ⤵️ </strong><br>
   <a>
@@ -45,7 +46,9 @@
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
   </a>
 </p>
+</div>
 
+<div align="center">
 <p align="left"><strong>
   📫 Aqui você consegue entrar em contato comigo | Here you can contact me: ⤵️ </strong><br>
 </p>
