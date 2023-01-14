@@ -49,7 +49,7 @@
   📫 Aqui você consegue entrar em contato comigo | Here you can contact me: ⤵️ </strong><br>
 </p>
 
-<p align="left">
+<p align="center">
 
   <a href="https://www.linkedin.com/in/marcosobel" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
