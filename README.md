@@ -1,4 +1,4 @@
-[!(https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Bem+vindo;Welcome;%ED%99%98%EC%98%81%ED%95%B4%EC%9A%94)]
+[![Descriptor_Welcome](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)]
 
 <img src="https://github.com/aragonxpd154/aragonxpd154/blob/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
