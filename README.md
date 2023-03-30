@@ -3,10 +3,6 @@
 <img src="https://github.com/aragonxpd154/aragonxpd154/blob/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="justify">
-<strong>Em Português</strong><br> 
-  Eu sou Marcos "Obel" e moro no Brasil. Me interesso por engenharia eletrônica aplicada a programação de microcontroladores, microprocessadores, linguagem de descrição de hardware, circuito eletrônico, arquitetura de hardware em nível de abstração.
-  Atualmente trabalho em uma emissora de televisão como Técnico de Sistemas Audiovisuais e estudo Análise e Desenvolvimento de Sistemas.
-  <br>
   <p></p>
   <p align="justify">
   <strong>In English</strong> <br>
