@@ -3,15 +3,12 @@
 <img src="https://github.com/aragonxpd154/aragonxpd154/blob/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="justify">
-  <p></p>
   <p align="justify">
   <strong>In English</strong> <br>
   I'm Marcos "Obel" and I live in Brazil. I'm interested in electronic engineering applied to programming microcontrollers, microprocessors, hardware description language, electronic circuit, hardware architecture at abstraction level.
    I currently work at a television station as an Audiovisual Systems Technician and study Systems Analysis and Development.
   <br>
   <p></p>
-
-</p>
 
 <div align="center">
 <p align="center"><strong>
