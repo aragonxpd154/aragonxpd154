@@ -62,7 +62,7 @@
   <a href="https://www.youtube.com/@voraz3d" alt="Instagram">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
-  <p align="center">
+  <img align="center">
 ![Profile View Counter](https://komarev.com/ghpvc/?username=aragonxpd154)
 </p>
 </div>
