@@ -65,8 +65,6 @@
  
 </p>
 </div>
-<div align="center">
 <p align="center">
   ![Profile View Counter](https://komarev.com/ghpvc/?username=aragonxpd154)
 </p>
-</div>
