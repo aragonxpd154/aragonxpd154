@@ -9,8 +9,8 @@
   <br>
   <p></p>
 
-<div align="left">
-<p align="left"><strong>
+<div align="center">
+<p align="center"><strong>
   👀 Languages I'm learning: ⤵️ <br></strong>
   <a>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
