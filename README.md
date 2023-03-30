@@ -10,8 +10,8 @@
   <br>
   <p></p>
 
-<div align="center">
-<p align="center"><strong>
+<div align="left">
+<p align="left"><strong>
   👀 Linguagens que estou aprendendo | Languages I'm learning: ⤵️ <br></strong>
   <a>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
