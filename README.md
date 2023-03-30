@@ -12,7 +12,7 @@
 
 <div align="left">
 <p align="left"><strong>
-  👀 Linguagens que estou aprendendo | Languages I'm learning: ⤵️ <br></strong>
+  👀 Languages I'm learning: ⤵️ <br></strong>
   <a>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   
@@ -33,7 +33,7 @@
 
 <div align="center">
 <p align="center"><strong>
-  💼 Ferramentas | Tools: ⤵️ </strong><br>
+  💼 Tools: ⤵️ </strong><br>
   <a>
   <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
   </a>
@@ -54,7 +54,7 @@
 </div>
 
 <p align="center"><strong>
-  📫 Aqui você consegue entrar em contato comigo | Here you can contact me: ⤵️ </strong><br>
+  📫 Here you can contact me: ⤵️ </strong><br>
 </p>
 <p align="center">
 
@@ -68,6 +68,6 @@
 </div>
 <div align="center">
 <p align="center">
-![Profile View Counter](https://komarev.com/ghpvc/?username=aragonxpd154)
+  ![Profile View Counter](https://komarev.com/ghpvc/?username=aragonxpd154)
 </p>
 </div>
