@@ -4,7 +4,6 @@
 
 <p align="justify">
   <p align="justify">
-  <strong>In English</strong> <br>
   I'm Marcos "Obel" and I live in Brazil. I'm interested in electronic engineering applied to programming microcontrollers, microprocessors, hardware description language, electronic circuit, hardware architecture at abstraction level.
    I currently work at a television station as an Audiovisual Systems Technician and study Systems Analysis and Development.
   <br>
