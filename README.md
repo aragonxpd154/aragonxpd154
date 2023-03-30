@@ -48,16 +48,14 @@
 
 <div align="center">
 <div align="center">
-<p align="center"><strong>
-  📫 Aqui você consegue entrar em contato comigo | Here you can contact me: ⤵️ </strong><br>
-</p>
   
 <img aligh="center" src="https://github-readme-stats.vercel.app/api?username=aragonxpd154&show_icons=true"/> </a>
   
-
-  
 </div>
 
+<p align="center"><strong>
+  📫 Aqui você consegue entrar em contato comigo | Here you can contact me: ⤵️ </strong><br>
+</p>
 <p align="center">
 
   <a href="https://www.linkedin.com/in/marcosobel" alt="Linkedin">
