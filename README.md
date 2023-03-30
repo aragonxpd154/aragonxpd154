@@ -46,11 +46,11 @@
 
 <div align="center">
   
-  
+ <br>
+  <br>
 <img aligh="center" src="https://github-readme-stats.vercel.app/api?username=aragonxpd154&show_icons=true"/> </a>
   
 </div>
-
 <p align="center"><strong>
   📫 Here you can contact me: ⤵️ </strong><br>
 </p>
@@ -61,8 +61,6 @@
 
   <a href="https://www.youtube.com/@voraz3d" alt="Instagram">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
- 
- 
 </p>
   <p align="center">
 ![Profile View Counter](https://komarev.com/ghpvc/?username=aragonxpd154)
