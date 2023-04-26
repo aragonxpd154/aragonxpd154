@@ -35,9 +35,7 @@ My name is Marcos "Obel" and I am an enthusiast of electronic engineering, with 
 </div>
 
 <div align="center">
-  
- <br>
-  <br>
+ 
 <img aligh="center" src="https://github-readme-stats.vercel.app/api?username=aragonxpd154&show_icons=true"/> </a>
 </div>
 <p align="center"><strong>
