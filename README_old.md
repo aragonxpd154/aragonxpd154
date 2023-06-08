@@ -1,6 +1,7 @@
 
   [![Descriptor_Welcome](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&width=435&lines=Bem+vindo;Welcome;%ED%99%98%EC%98%81%ED%95%B4%EC%9A%94)](https://github.com/aragonxpd154/aragonxpd154)
 
+
 <img src="https://github.com/aragonxpd154/aragonxpd154/blob/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="justify">
@@ -34,7 +35,7 @@ My name is Marcos "Obel" and I am an enthusiast of electronic engineering, with 
 </div>
 
 <div align="center">
-
+ 
 <img aligh="center" src="https://github-readme-stats.vercel.app/api?username=aragonxpd154&show_icons=true"/> </a>
 </div>
 <p align="center"><strong>
@@ -48,3 +49,5 @@ My name is Marcos "Obel" and I am an enthusiast of electronic engineering, with 
   <a href="https://www.youtube.com/@voraz3d" alt="Instagram">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
+
+
