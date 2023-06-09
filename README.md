@@ -1,17 +1,6 @@
 <p align="center">
-<a href="https://www.linkedin.com/in/marcosobel/" target="_blank">
-<img src="https://raw.githubusercontent.com/aragonxpd154/aragonxpd154/main/name_profile.png"
-alt="Marcos Obel - Design. Code. Share." width="800"/></a>
-<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/aragonxpd154/aragonxpd154/main/art_1.png"
-alt="#" width="159"/></a>
-<a href="#" target="_blank">
-<img src="https://raw.githubusercontent.com/aragonxpd154/aragonxpd154/main/art_2.png" alt="#" width="128"/></a>
-<a href="https://github.com/aragonxpd154" target="_blank">
-<img src="https://raw.githubusercontent.com/aragonxpd154/aragonxpd154/main/art_3.png" alt="GitHub: aragonxpd154" width="129"/></a>
-<a href="https://discordapp.com/users/relbeits#9363/" target="_blank">
-<img src="https://raw.githubusercontent.com/aragonxpd154/aragonxpd154/main/art_4.png" alt="Discord: relbeits#9363" width="167"/>
-<a href="https://linkedin.com/in/marcosobel" target="_blank">
-<img src="https://raw.githubusercontent.com/aragonxpd154/aragonxpd154/main/art_5.png" alt="#" width="214"/></a>
+<a href="https://www.linkedin.com/in/marcosobel/" target="_blank"><img src="https://raw.githubusercontent.com/aragonxpd154/aragonxpd154/main/name_profile.png"alt="Marcos Obel - Design. Code. Share." width="800"/></a><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/aragonxpd154/aragonxpd154/main/art_1.png"
+alt="#" width="159"/></a><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/aragonxpd154/aragonxpd154/main/art_2.png" alt="#" width="128"/></a><a href="https://github.com/aragonxpd154" target="_blank"><img src="https://raw.githubusercontent.com/aragonxpd154/aragonxpd154/main/art_3.png" alt="GitHub: aragonxpd154" width="129"/></a><a href="https://discordapp.com/users/relbeits#9363/" target="_blank"><img src="https://raw.githubusercontent.com/aragonxpd154/aragonxpd154/main/art_4.png" alt="Discord: relbeits#9363" width="167"/><a href="https://linkedin.com/in/marcosobel" target="_blank"><img src="https://raw.githubusercontent.com/aragonxpd154/aragonxpd154/main/art_5.png" alt="#" width="214"/></a>
 </p>
 
 <!-- Subtitle -->
