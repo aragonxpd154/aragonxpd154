@@ -6,7 +6,7 @@ alt="#" width="159"/></a><a href="#" target="_blank"><img src="https://raw.githu
 <!-- Subtitle -->
 <div align="center">
   <p>
-      <code>#C</code> &nbsp; <code>#Java</code> &nbsp; <code>#Cplusplus</code> &nbsp; <code>#VHDL</code> &nbsp; <code>#JAVA</code> &nbsp; <code>#CSharp</code> &nbsp; <code>#Electronics</code> &nbsp; <code>#Enginnering</code> &nbsp; <code>#Lua</code> &nbsp; <code>#Blender</code> &nbsp; <code>#Database</code> &nbsp; <code>#Math</code> &nbsp; <code>#Backend</code> &nbsp; <code>#DataAnalysis</code> &nbsp; <code>#MachineLearning</code> &nbsp; <code>#AbstractionLevel</code> &nbsp; <code>#Microprocessors</code> &nbsp; <code>#HardwareArchitecture</code> &nbsp; <code>#DeveloperWeb</code> &nbsp;
+      <code>#C</code> &nbsp; <code>#Java</code> &nbsp; <code>#Cplusplus</code> &nbsp; <code>#VHDL</code> &nbsp; <code>#R</code> &nbsp; <code>#CSharp</code> &nbsp; <code>#Electronics</code> &nbsp; <code>#Enginnering</code> &nbsp; <code>#Lua</code> &nbsp; <code>#Blender</code> &nbsp; <code>#Database</code> &nbsp; <code>#Math</code> &nbsp; <code>#Backend</code> &nbsp; <code>#DataAnalysis</code> &nbsp; <code>#MachineLearning</code> &nbsp; <code>#AbstractionLevel</code> &nbsp; <code>#Microprocessors</code> &nbsp; <code>#HardwareArchitecture</code> &nbsp; <code>#DeveloperWeb</code> &nbsp;
   </p>
   <hr/>
   <b>Student | Backend Developer |Telecommunications Professional</b>
