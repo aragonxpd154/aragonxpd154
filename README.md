@@ -1,4 +1,5 @@
 <p align="center">
+<!-- Img apresentation Profile -->
 <a href="https://www.linkedin.com/in/marcosobel/" target="_blank"><img src="https://raw.githubusercontent.com/aragonxpd154/aragonxpd154/main/name_profile.png"alt="Marcos Obel - Design. Code. Share." width="800"/></a><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/aragonxpd154/aragonxpd154/main/art_1.png"
 alt="#" width="159"/></a><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/aragonxpd154/aragonxpd154/main/art_2.png" alt="#" width="128"/></a><a href="https://github.com/aragonxpd154" target="_blank"><img src="https://raw.githubusercontent.com/aragonxpd154/aragonxpd154/main/art_3.png" alt="GitHub: aragonxpd154" width="129"/></a><a href="https://linkedin.com/in/marcosobel" target="_blank"><img src="https://raw.githubusercontent.com/aragonxpd154/aragonxpd154/main/art_4.png" alt="#" width="167"/><a href="https://linkedin.com/in/marcosobel" target="_blank"><img src="https://raw.githubusercontent.com/aragonxpd154/aragonxpd154/main/art_5.png" alt="#" width="214"/></a>
 </p>
@@ -9,7 +10,7 @@ alt="#" width="159"/></a><a href="#" target="_blank"><img src="https://raw.githu
       <code>#C</code> &nbsp; <code>#Java</code> &nbsp; <code>#Cplusplus</code> &nbsp; <code>#VHDL</code> &nbsp; <code>#R</code> &nbsp; <code>#CSharp</code> &nbsp; <code>#Electronics</code> &nbsp; <code>#Enginnering</code> &nbsp; <code>#Lua</code> &nbsp; <code>#Blender</code> &nbsp; <code>#Database</code> &nbsp; <code>#Math</code> &nbsp; <code>#Backend</code> &nbsp; <code>#DataAnalysis</code> &nbsp; <code>#MachineLearning</code> &nbsp; <code>#AbstractionLevel</code> &nbsp; <code>#Microprocessors</code> &nbsp; <code>#HardwareArchitecture</code> &nbsp; <code>#DeveloperWeb</code> &nbsp;
   </p>
   <hr/>
-  <b>Student | Backend Developer |Telecommunications Professional</b>
+  <b>Student | Backend Developer | Telecommunications Professional</b>
 </div>
 
 <br/>
