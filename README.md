@@ -32,9 +32,6 @@
 <!-- Certifications -->
 <h2 align="center">📜 Certifications</h2>
 <p align="center">
-  • CLA: Programming Essentials in C – Cisco Networking Academy<br/>
-  • Fundamentos da Programação – LinkedIn Learning<br/>
-  • Fundamentos de Programação: Design Orientado a Objetos – LinkedIn Learning<br/>
   • Wireshark Essential Training – LinkedIn Learning<br/>
   • Cybersecurity Essentials – Cisco Networking Academy<br/>
   • Introduction to IT Security – Akamai Technologies<br/>
@@ -44,7 +41,6 @@
   • Python Scripting Fundamentals – Akamai Technologies<br/>
   • Database Foundations – Oracle<br/>
   • Managing Relational Databases – Akamai Technologies<br/>
-  • Data Science in Real Life – The Johns Hopkins University<br/>
   • Networking Essentials – Cisco Networking Academy
 </p>
 
