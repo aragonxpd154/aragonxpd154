@@ -49,8 +49,3 @@
   <a href="https://github.com/aragonxpd154"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=aragonxpd154&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aragonxpd154&layout=compact&langs_count=7&theme=dracula"/></a>
 </div>
 
-<!-- Let's Connect -->
-<h2 align="center">🤝 Let's Connect!</h2>
-<p align="center">
-  <a href="https://linkedin.com/in/marcosobel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a><a href="https://github.com/aragonxpd154" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
-</p>
