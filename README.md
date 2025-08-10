@@ -1,15 +1,14 @@
 
 <!-- Especializações -->
 <div align="center">
-
   <hr/>
   <b>Student | Backend Developer | Telecommunications Professional</b>
-
-    <p>
+</div>
+<div align="center">
+<p>
     <code>#C</code> &nbsp;<code>#Java</code> &nbsp;<code>#C++</code> &nbsp;<code>#VHDL</code> &nbsp;<code>#R</code> &nbsp;<code>#CSharp</code> &nbsp;<code>#Electronics</code> &nbsp;<code>#Engineering</code> &nbsp;<code>#Lua</code> &nbsp;<code>#Blender</code> &nbsp;<code>#Database</code> &nbsp;<code>#Math</code> &nbsp;<code>#Backend</code> &nbsp;<code>#DataAnalysis</code> &nbsp;<code>#MachineLearning</code> &nbsp;<code>#Microprocessors</code> &nbsp;<code>#HardwareArchitecture</code> &nbsp;<code>#WebDevelopment</code>
   </p>
 </div>
-
 <!-- Apresentação -->
 <p align="justify">
   Hello! 👋 My name is <b>aragonxpd154</b> and I am an enthusiast of Electronic Engineering, passionate about programming microcontrollers, microprocessors, hardware description languages, electronic circuits, and hardware architecture at various levels of abstraction.<br/><br/>
