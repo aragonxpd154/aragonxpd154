@@ -10,7 +10,7 @@
 
 <!-- Apresentação -->
 <p align="justify">
-  Hello! 👋 My name is <b>Marcos "Obel"</b> and I am an enthusiast of Electronic Engineering, passionate about programming microcontrollers, microprocessors, hardware description languages, electronic circuits, and hardware architecture at various levels of abstraction.<br/><br/>
+  Hello! 👋 My name is <b>aragonxpd154</b> and I am an enthusiast of Electronic Engineering, passionate about programming microcontrollers, microprocessors, hardware description languages, electronic circuits, and hardware architecture at various levels of abstraction.<br/><br/>
   I also have a strong interest in Systems and Data Analysis, including Machine Learning and Artificial Intelligence. Currently, I work as an Audiovisual Systems Technician while studying Systems Analysis and Development. My goal is to create innovative solutions that improve people's lives and optimize business and organizational routines.
 </p>
 
