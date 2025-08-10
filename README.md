@@ -1,11 +1,13 @@
 
 <!-- Especializações -->
 <div align="center">
-  <p>
-    <code>#C</code> &nbsp;<code>#Java</code> &nbsp;<code>#C++</code> &nbsp;<code>#VHDL</code> &nbsp;<code>#R</code> &nbsp;<code>#CSharp</code> &nbsp;<code>#Electronics</code> &nbsp;<code>#Engineering</code> &nbsp;<code>#Lua</code> &nbsp;<code>#Blender</code> &nbsp;<code>#Database</code> &nbsp;<code>#Math</code> &nbsp;<code>#Backend</code> &nbsp;<code>#DataAnalysis</code> &nbsp;<code>#MachineLearning</code> &nbsp;<code>#Microprocessors</code> &nbsp;<code>#HardwareArchitecture</code> &nbsp;<code>#WebDevelopment</code>
-  </p>
+
   <hr/>
   <b>Student | Backend Developer | Telecommunications Professional</b>
+
+    <p>
+    <code>#C</code> &nbsp;<code>#Java</code> &nbsp;<code>#C++</code> &nbsp;<code>#VHDL</code> &nbsp;<code>#R</code> &nbsp;<code>#CSharp</code> &nbsp;<code>#Electronics</code> &nbsp;<code>#Engineering</code> &nbsp;<code>#Lua</code> &nbsp;<code>#Blender</code> &nbsp;<code>#Database</code> &nbsp;<code>#Math</code> &nbsp;<code>#Backend</code> &nbsp;<code>#DataAnalysis</code> &nbsp;<code>#MachineLearning</code> &nbsp;<code>#Microprocessors</code> &nbsp;<code>#HardwareArchitecture</code> &nbsp;<code>#WebDevelopment</code>
+  </p>
 </div>
 
 <!-- Apresentação -->
