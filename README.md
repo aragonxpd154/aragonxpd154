@@ -1,12 +1,3 @@
-<!-- Banner principal -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/marcosobel/" target="_blank"><img src="https://raw.githubusercontent.com/aragonxpd154/aragonxpd154/main/name_profile.png" alt="Marcos Obel - Design. Code. Share." width="800"/></a>
-</p>
-
-<!-- Ícones artísticos (colados) -->
-<p align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/aragonxpd154/aragonxpd154/main/art_1.png" alt="Art 1" width="159"/></a><a href="#"><img src="https://raw.githubusercontent.com/aragonxpd154/aragonxpd154/main/art_2.png" alt="Art 2" width="128"/></a><a href="https://github.com/aragonxpd154" target="_blank"><img src="https://raw.githubusercontent.com/aragonxpd154/aragonxpd154/main/art_3.png" alt="GitHub Profile" width="129"/></a><a href="https://linkedin.com/in/marcosobel" target="_blank"><img src="https://raw.githubusercontent.com/aragonxpd154/aragonxpd154/main/art_4.png" alt="LinkedIn Profile" width="167"/></a><a href="https://linkedin.com/in/marcosobel" target="_blank"><img src="https://raw.githubusercontent.com/aragonxpd154/aragonxpd154/main/art_5.png" alt="LinkedIn Banner" width="214"/></a>
-</p>
 
 <!-- Especializações -->
 <div align="center">
