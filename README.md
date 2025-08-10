@@ -17,19 +17,7 @@
 <!-- Skills -->
 
 <!-- Certifications -->
-<h2 align="center">📜 Certifications</h2>
-<p align="center">
-  • Wireshark Essential Training – LinkedIn Learning<br/>
-  • Cybersecurity Essentials – Cisco Networking Academy<br/>
-  • Introduction to IT Security – Akamai Technologies<br/>
-  • Managing Network Security – University System of Georgia<br/>
-  • Networking Fundamentals – Akamai Technologies<br/>
-  • Operating Systems Fundamentals – Akamai Technologies<br/>
-  • Python Scripting Fundamentals – Akamai Technologies<br/>
-  • Database Foundations – Oracle<br/>
-  • Managing Relational Databases – Akamai Technologies<br/>
-  • Networking Essentials – Cisco Networking Academy
-</p>
+
 
 <!-- Estatísticas GitHub -->
 <div align="center">
