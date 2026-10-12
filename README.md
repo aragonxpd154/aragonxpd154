@@ -14,6 +14,6 @@ Transmissão de Rádio e TV · Redes IP · Eletrônica
 
 <br/><br/>
 
-[LinkedIn](https://www.linkedin.com/in/marcosobel) · [E-mail](mailto:marcos.silvadeveloper@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/marcosobel) 
 
 </div>
